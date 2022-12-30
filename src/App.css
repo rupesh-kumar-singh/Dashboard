@@ -108,6 +108,12 @@
 
   width: 500px;
 }
+.child h2 {
+  color: blue;
+  margin: 20px;
+
+  border-bottom: 4px solid blue;
+}
 .child:hover {
   transform: Scale(1.005, 1.005);
 }

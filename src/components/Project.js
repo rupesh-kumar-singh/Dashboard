@@ -41,6 +41,7 @@ const Project = () => {
         </div>
       </div>
       <div className="child">
+        <h2>Illustrations</h2>
         <img src="https://unidad22.com/wp-content/uploads/2014/10/responsive-website-design.jpg" />
         <h6>
           Add some quality , svg illustrations to your counttesy of unDraw , a
